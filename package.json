@@ -1,0 +1,16 @@
+{
+  "name": "p4-copie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.34.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch sass/style.scss:./style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
